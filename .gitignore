@@ -1,0 +1,8 @@
+data/raw/*
+data/processed/*
+figures/*
+results/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!figures/.gitkeep
+!results/.gitkeep
